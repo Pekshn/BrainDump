@@ -1,5 +1,5 @@
 # BrainDump
-My iOS BrainDump Demonstrating:
+My iOS BrainDump App Demonstrating:
 
 SwiftUI – Declarative UI framework for building modern iOS apps.
 MVC Architecture – Code structured into Model, View, and Controller layers.
