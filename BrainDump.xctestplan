@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "73B86A99-9002-4718-A6FD-AC06C51423E2",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:BrainDump.xcodeproj",
+      "identifier" : "94E366912D57FB4600705269",
+      "name" : "BrainDump"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:BrainDump.xcodeproj",
+        "identifier" : "94E366E02D5810F100705269",
+        "name" : "BrainDumpEndToEndTests"
+      }
+    }
+  ],
+  "version" : 1
+}
