@@ -6,7 +6,7 @@ BrainDump iOS app covering:
   -  Core Data – Framework for local data persistence and management.
   -  E2E Testing – Validating the entire app flow from start to finish.
 
-📌 Note: No external dependencies – Just download and build.
+📌 Note: No external dependencies – Just download and run.
 
 📸 Screenshots
 
